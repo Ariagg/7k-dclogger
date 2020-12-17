@@ -1,6 +1,6 @@
 DiscordWebhookSystemInfos = 'GANTI INI DI logger_sv'
-DiscordWebhookKillinglogs = 'https://discord.com/api/webhooks/784032169457877022/MgW69HyMBp8Lj4yibPZNQ63oRUGXc69X_xyFwjxmfLcmbtfh68B463cEEsfeitLvdaOp'
-DiscordWebhookChat = 'https://discord.com/api/webhooks/774531983413608469/EYYKrdzFW4SmIsFWlOIj1iB1nX3mYRRDVmD21DWWVCzMlu61vISAmq8OeMZh91BDnWh3'
+DiscordWebhookKillinglogs = 'place your dicord-killing-webhook here'
+DiscordWebhookChat = 'place your command-chat-log here'
 
 SystemAvatar = 'https://media.discordapp.net/attachments/764897771295080478/784035058255921183/indovice_logo.png'
 
